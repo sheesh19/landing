@@ -1,0 +1,14 @@
+.btn-grey {
+  margin: 16px auto;
+  color: white;
+  background-color: #276149;
+  border-radius: 4px;
+  padding: 8px 16px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.btn-grey:hover {
+  background-color: #4f987a;
+  transition: background 0.5s ease;
+  color: white;
+}

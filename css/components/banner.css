@@ -1,0 +1,25 @@
+.banner {
+  color: white;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.banner h1 {
+  font-weight: 40px;
+  color: white;
+}
+
+.banner p {
+  font-weight: lighter;
+  margin-bottom: 36px;
+  color: white;
+}
+
+.banner-container {
+  margin-top: 160px;
+}
